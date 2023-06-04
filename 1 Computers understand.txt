@@ -1,0 +1,9 @@
+1)Computers understand coding as a means of communication and instruction. Debugging involves identifying and fixing errors in computer programs. 
+
+Computers use binary code, represented by 0s and 1s, to comprehend information. Binary code manipulates electrical signals in the hardware, interpreting 0 as low voltage (off) and 1 as high voltage (on). This binary system forms the basis for data storage and processing.
+
+2)An Integrated Development Environment (IDE) is a software application that offers comprehensive tools for code writing, testing, and debugging. It includes features like a text editor, code auto-completion, debugging tools, and project management capabilities.
+
+A text editor is a basic tool for editing plain text, lacking the advanced features specific to programming languages found in an IDE. An IDE provides a specialized environment for code creation and management.
+
+3)Extensions are additional modules or plugins that enhance an IDE's functionality. They can introduce features like syntax highlighting, code formatting, and integration with specific frameworks or libraries.
